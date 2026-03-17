@@ -1,2 +1,2 @@
 # portfolio-
-Personal portfolio developed using HTML, CSS, and Flask, showcasing my projects, skills, and web development journey.
+Personal portfolio website built using HTML and CSS showcasing my skills, projects, and contact details.
